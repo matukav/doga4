@@ -1,5 +1,5 @@
 /*
-* File: SolutionController.java
+* File: Henger.java
 * Author: Viola Máté
 * Copyright: 2025, Viola Máté
 * Group: II/2/N
