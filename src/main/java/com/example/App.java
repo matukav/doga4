@@ -1,3 +1,13 @@
+/*
+* File: SolutionController.java
+* Author: Viola Máté
+* Copyright: 2025, Viola Máté
+* Group: II/2/N
+* Date: 2025-04-15
+* Github: https://github.com/matukav
+* Licenc: MIT
+*/
+
 package com.example;
 
 import java.io.IOException;
@@ -8,9 +18,6 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-/**
- * JavaFX App
- */
 public class App extends Application {
 
     private static Scene scene;
